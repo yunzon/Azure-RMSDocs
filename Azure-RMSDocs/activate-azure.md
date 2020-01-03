@@ -25,7 +25,7 @@ ms.custom: admin
 
 ---
 
-# How to activate the Rights Management protection service from the Azure portal
+# How to activate the Rights Management protection service from the Azure portal (Pull Request Test)
 
 >*Applies to: [Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)*
 
